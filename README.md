@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋 I'm Esha 
+# Hi, I'm Esha 👋
 
-### AI Builder • Full-Stack Learner • ECE Graduate
+### ECE Graduate • AI Builder • Full-Stack Learner
 
-Building intelligent products, exploring Generative AI, and turning ideas into real applications.
+Building intelligent applications and exploring Generative AI.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Builder;Full+Stack+Learner;Generative+AI+Enthusiast;Building+BugLens+AI;Building+RecruitIQ+AI;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI+Builder;Full-Stack+Learner;Generative+AI+Enthusiast;Building+BugLens+AI;Building+RecruitIQ+AI"/>
 
 ![](https://komarev.com/ghpvc/?username=esha21101\&style=flat-square\&color=blueviolet)
 
@@ -14,225 +14,125 @@ Building intelligent products, exploring Generative AI, and turning ideas into r
 
 ---
 
-# 🚀 About Me
+## About
 
-* 🎓 ECE Graduate (2025)
-* 🤖 Passionate about Generative AI and Intelligent Systems
-* 🛠 Currently building AI-powered applications
-* 🌱 Exploring production-grade AI workflows
-* 📚 Interested in Developer Tools, Backend Engineering and Computer Vision
-* ⚡ Love transforming ideas into usable products
+ECE graduate with an interest in Generative AI, developer tools, backend engineering, and intelligent systems.
+
+I enjoy building applications that solve practical problems and exploring how AI can improve developer workflows.
 
 ---
 
-# 🧠 Currently Exploring
+## Featured Projects
 
-* Full Stack AI
-* FastAPI
-* LLM Applications
-* Retrieval Augmented Generation (RAG)
-* OCR Systems
-* AI Agents
-* System Design
-* Backend Architecture
-* Production AI Pipelines
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 BugLens AI
+### BugLens AI
 
 Turn screen recordings into structured bug reports.
 
-### Features
+**Features**
 
-✔ Frame Extraction
+* Video Uploads
+* Frame Extraction
+* OCR Processing
+* Error Detection
+* AI-generated Reports
+* Severity Classification
 
-✔ OCR Processing
+**Stack**
 
-✔ Error Detection
-
-✔ AI-generated Reports
-
-✔ Severity Detection
-
-✔ Developer Dashboard
-
-### Tech Stack
-
-FastAPI • Next.js • Gemini • Tesseract OCR • PostgreSQL
+FastAPI · Next.js · Gemini · OCR · PostgreSQL
 
 ---
 
-## 🔹 RecruitIQ AI
+### RecruitIQ AI
 
-AI-powered candidate ranking system.
+AI-assisted candidate ranking platform.
 
-### Features
+**Features**
 
-✔ Semantic Matching
-
-✔ Embeddings
-
-✔ Intelligent Scoring
-
-✔ Resume Understanding
-
-✔ Candidate Ranking
+* Semantic Matching
+* Embedding-based Retrieval
+* Candidate Scoring
+* Intelligent Ranking
+* Resume Understanding
 
 ---
 
-# 🎯 2026 Goals
+## Currently Exploring
 
-* [ ] Build production-grade AI products
-* [ ] Contribute to Open Source
-* [ ] Strengthen Backend Engineering
-* [ ] Deploy scalable applications
-* [ ] Improve problem-solving skills
-* [ ] Learn cloud fundamentals
-* [ ] Create a personal portfolio
+* FastAPI
+* LLM Applications
+* OCR Pipelines
+* Retrieval-Augmented Generation (RAG)
+* Backend Architecture
+* System Design
+* Production AI Workflows
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-</p>
+Python · C++ · Java · JavaScript · SQL · C
 
 ### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
+React · Next.js · HTML · CSS
 
 ### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
+FastAPI · Flask · Node.js
 
 ### Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
+PostgreSQL · MongoDB
 
 ### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-</p>
+Git · Docker · Linux · VS Code
 
 ---
 
-# 📊 GitHub Analytics
+## Goals
+
+* Build production-grade AI applications
+* Deploy end-to-end systems
+* Contribute to open source
+* Improve engineering practices
+* Continue learning through projects
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=esha21101&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=esha21101&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=esha21101&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=esha21101&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha21101&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha21101&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Highlights
+## Beyond Tech
 
-⭐ Google Girl Hackathon Pre-finalist
-
-⭐ LeetCode Knight
-
-⭐ Building AI-first applications
-
-⭐ ECE Graduate 2025
+Reading · Running · Gym · Music · Swimming · Travel
 
 ---
 
-# 📚 Beyond Tech
+## Connect
 
-📖 Reading
+LinkedIn : https://www.linkedin.com/in/esha-m-44a146229/
 
-🏃 Running
+Email : eshamarkam03@gmail.com
 
-🏋️ Gym
-
-🎧 Music
-
-🌊 Swimming
-
-✈️ Travel
-
-☕ Coffee + Coding
-
----
-
-# 📫 Connect With Me
-
-LinkedIn → https://www.linkedin.com/in/esha-m-44a146229/
-
-Email → eshamarkam03@gmail.com
-
-Portfolio → Coming Soon
-
----
-
-# 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-
-### Building useful things, learning continuously, and enjoying the process ✨
+Portfolio (coming soon)
 
 </div>
