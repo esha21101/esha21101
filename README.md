@@ -6,7 +6,7 @@
 
 Building intelligent applications and exploring Generative AI.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Full-Stack+Learner;Generative+AI+Explorer;Building+BugLens+AI;Building+RecruitIQ+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+Enthusiast;Full-Stack+Learner;Building+BugLens+AI;Building+RecruitIQ+AI;Exploring+LLMs+and+AI+Agents"/>
 
 ![](https://komarev.com/ghpvc/?username=esha21101\&style=flat-square\&color=blueviolet)
 
@@ -16,62 +16,39 @@ Building intelligent applications and exploring Generative AI.
 
 ## About
 
-ECE graduate interested in Generative AI, developer tools, backend engineering, and intelligent systems.
+ECE graduate interested in developer tools, backend engineering, and practical AI systems.
 
-I enjoy building applications that solve practical problems and exploring how AI can improve developer workflows.
+Lately I've been spending most of my time experimenting with FastAPI, LLM-powered workflows, OCR pipelines, retrieval systems, AI agents, and cloud technologies.
+
+I enjoy turning ideas into products and building applications that solve real problems.
 
 ---
 
-## Currently Building
+## Building
 
 ### BugLens AI
 
-Turn screen recordings into structured bug reports.
+Making bug reporting less painful by transforming screen recordings into structured reports through OCR and AI-assisted analysis.
 
-**Features**
-
-* Video Uploads
-* Frame Extraction
-* OCR Processing
-* Error Detection
-* AI-generated Reports
-* Severity Classification
-
-**Stack**
-
-FastAPI · Next.js · Gemini · Tesseract OCR · PostgreSQL
+*FastAPI · Next.js · Gemini · Tesseract OCR · PostgreSQL*
 
 ---
 
 ### RecruitIQ AI
 
-AI-assisted candidate ranking platform.
+Exploring semantic retrieval and intelligent candidate ranking beyond traditional keyword matching.
 
-**Features**
-
-* Semantic Matching
-* Embedding-based Retrieval
-* Candidate Scoring
-* Intelligent Ranking
-* Resume Understanding
+*Embeddings · Retrieval · Scoring · Ranking*
 
 ---
 
-## Currently Exploring
+## Interested In
 
-* FastAPI
-* LLM Applications
-* OCR Pipelines
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Cloud Fundamentals
-* Backend Architecture
-* System Design
-* Production AI Workflows
+Generative AI • AI Agents • Developer Tools • Backend Engineering • Intelligent Systems • Cloud • System Design
 
 ---
 
-## Tech Stack
+## Working With
 
 ### Languages
 
@@ -141,18 +118,7 @@ AI-assisted candidate ranking platform.
 
 ---
 
-## Goals
-
-* Build production-grade AI applications
-* Deploy end-to-end systems
-* Contribute to open source
-* Strengthen backend engineering skills
-* Continue learning through projects
-* Explore modern cloud technologies
-
----
-
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
 
@@ -172,15 +138,17 @@ AI-assisted candidate ranking platform.
 
 ## Beyond Tech
 
-Reading · writing · Gym · Music · Sketching
+Reading • Running • Gym • Music • Swimming • Travel
 
 ---
 
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/esha-m-44a146229/
+
 * Email: [eshamarkam03@gmail.com](mailto:eshamarkam03@gmail.com)
-* Portfolio: Coming Soon
+
+* Portfolio: In Progress
 
 ---
 
