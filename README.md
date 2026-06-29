@@ -2,11 +2,11 @@
 
 # Hi, I'm Esha 👋
 
-### ECE Graduate • AI Builder • Full-Stack Learner
+### ECE Graduate • AI Enthusiast • Full-Stack Learner
 
 Building intelligent applications and exploring Generative AI.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI+Builder;Full-Stack+Learner;Generative+AI+Enthusiast;Building+BugLens+AI;Building+RecruitIQ+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Full-Stack+Learner;Generative+AI+Explorer;Building+BugLens+AI;Building+RecruitIQ+AI"/>
 
 ![](https://komarev.com/ghpvc/?username=esha21101\&style=flat-square\&color=blueviolet)
 
@@ -16,13 +16,13 @@ Building intelligent applications and exploring Generative AI.
 
 ## About
 
-ECE graduate with an interest in Generative AI, developer tools, backend engineering, and intelligent systems.
+ECE graduate interested in Generative AI, developer tools, backend engineering, and intelligent systems.
 
 I enjoy building applications that solve practical problems and exploring how AI can improve developer workflows.
 
 ---
 
-## Featured Projects
+## Currently Building
 
 ### BugLens AI
 
@@ -39,7 +39,7 @@ Turn screen recordings into structured bug reports.
 
 **Stack**
 
-FastAPI · Next.js · Gemini · OCR · PostgreSQL
+FastAPI · Next.js · Gemini · Tesseract OCR · PostgreSQL
 
 ---
 
@@ -63,6 +63,8 @@ AI-assisted candidate ranking platform.
 * LLM Applications
 * OCR Pipelines
 * Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Cloud Fundamentals
 * Backend Architecture
 * System Design
 * Production AI Workflows
@@ -73,23 +75,69 @@ AI-assisted candidate ranking platform.
 
 ### Languages
 
-Python · C++ · Java · JavaScript · SQL · C
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+</p>
 
 ### Frontend
 
-React · Next.js · HTML · CSS
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ### Backend
 
-FastAPI · Flask · Node.js
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
 
 ### Databases
 
-PostgreSQL · MongoDB
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
 
 ### Tools
 
-Git · Docker · Linux · VS Code
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
@@ -98,8 +146,9 @@ Git · Docker · Linux · VS Code
 * Build production-grade AI applications
 * Deploy end-to-end systems
 * Contribute to open source
-* Improve engineering practices
+* Strengthen backend engineering skills
 * Continue learning through projects
+* Explore modern cloud technologies
 
 ---
 
@@ -129,10 +178,18 @@ Reading · Running · Gym · Music · Swimming · Travel
 
 ## Connect
 
-LinkedIn : https://www.linkedin.com/in/esha-m-44a146229/
+* LinkedIn: https://www.linkedin.com/in/esha-m-44a146229/
+* Email: [eshamarkam03@gmail.com](mailto:eshamarkam03@gmail.com)
+* Portfolio: Coming Soon
 
-Email : eshamarkam03@gmail.com
+---
 
-Portfolio (coming soon)
+## Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+
+Building useful things, learning continuously, and enjoying the process.
 
 </div>
