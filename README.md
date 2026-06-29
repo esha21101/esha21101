@@ -172,7 +172,7 @@ AI-assisted candidate ranking platform.
 
 ## Beyond Tech
 
-Reading · Running · Gym · Music · Swimming · Travel
+Reading · writing · Gym · Music · Sketching
 
 ---
 
