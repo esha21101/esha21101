@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Esha Markam
+# Hi 👋 I'm Esha 
 
 ### AI Builder • Full-Stack Learner • ECE Graduate
 
@@ -217,9 +217,9 @@ AI-powered candidate ranking system.
 
 # 📫 Connect With Me
 
-LinkedIn → YOUR_LINK
+LinkedIn → https://www.linkedin.com/in/esha-m-44a146229/
 
-Email → YOUR_EMAIL
+Email → eshamarkam03@gmail.com
 
 Portfolio → Coming Soon
 
